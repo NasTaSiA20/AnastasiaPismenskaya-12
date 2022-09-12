@@ -3,3 +3,4 @@
 # база данных 1/https://docs.google.com/document/d/1DL3zLlvmVcTY2DPk0Wo3TnsGgpIPfSX9_MC_FPQ14wg/edit?usp=drivesdk
 # база данных 2/https://docs.google.com/document/d/1OPBNhsv8KLuaO35vx-GzcwSlcQ6reLr2t_nsIsJnSyc/edit?usp=drivesdk
 # конспект гитhttps://docs.google.com/document/d/18Q-PHUlx9CXsahrBnnAf1g062OP7PlwD3vRhgW8hdYQ/edit?usp=drivesdk
+# классификация ЭВМ/https://docs.google.com/document/d/1E2d8rB3k9bZf21LmfTb-F_toRV4gOTPtHhtwW3ecDRI/edit?usp=drivesdk
