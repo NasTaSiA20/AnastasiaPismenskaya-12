@@ -6,3 +6,4 @@
 # классификация ЭВМ/https://docs.google.com/document/d/1E2d8rB3k9bZf21LmfTb-F_toRV4gOTPtHhtwW3ecDRI/edit?usp=drivesdk
 # заполнение таблицыhttps://docs.google.com/document/d/1gugTCFfqWrEoDGrhF4ZSnt_tR9VSoe3jD-pVp1dG_k0/edit?usp=drivesdk
 # гитhttps://docs.google.com/document/d/18Q-PHUlx9CXsahrBnnAf1g062OP7PlwD3vRhgW8hdYQ/edit?usp=drivesdk
+# таблица эксельhttps://docs.google.com/spreadsheets/d/1EkKLD1sX6ZvpKk4IO5KARQYvuPpO5B-4vXdeQoZ0BU8/edit?usp=drivesdk
