@@ -7,4 +7,4 @@
 # заполнение таблицыhttps://docs.google.com/document/d/1gugTCFfqWrEoDGrhF4ZSnt_tR9VSoe3jD-pVp1dG_k0/edit?usp=drivesdk
 # гитhttps://docs.google.com/document/d/18Q-PHUlx9CXsahrBnnAf1g062OP7PlwD3vRhgW8hdYQ/edit?usp=drivesdk
 # таблица эксельhttps://docs.google.com/spreadsheets/d/1PRpbmQTPrDk0HKk7LKVIZleQhY086PLAIMLQWNPavDY/edit?usp=drivesdk
-# централизованная архитектура https://docs.google.com/document/d/1Yk6pd0g00UxDPUJ9-0thONQGlBc25MOsArx0g31MBt8/edit?usp=drivesdk
+# централизованная архитектураhttps://docs.google.com/document/d/1Yk6pd0g00UxDPUJ9-0thONQGlBc25MOsArx0g31MBt8/edit?usp=drivesdk
