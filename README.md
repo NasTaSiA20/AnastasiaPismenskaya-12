@@ -8,4 +8,4 @@
 # гитhttps://docs.google.com/document/d/18Q-PHUlx9CXsahrBnnAf1g062OP7PlwD3vRhgW8hdYQ/edit?usp=drivesdk
 # таблица эксельhttps://docs.google.com/spreadsheets/d/1PRpbmQTPrDk0HKk7LKVIZleQhY086PLAIMLQWNPavDY/edit?usp=drivesdk
 # централизованная архитектураhttps://docs.google.com/document/d/1Yk6pd0g00UxDPUJ9-0thONQGlBc25MOsArx0g31MBt8/edit?usp=drivesdk
-# 23.09.2022 ER диаграммыhttps://docs.google.com/document/d/1LQAO3OUMS1Eu0KCqqTQQNJdOwMlt30GxafOIXnSYlx0/edit?usp=drivesdk
+# 23.09.er диаграммыhttps://docs.google.com/document/d/1LQAO3OUMS1Eu0KCqqTQQNJdOwMlt30GxafOIXnSYlx0/edit?usp=drivesdk
