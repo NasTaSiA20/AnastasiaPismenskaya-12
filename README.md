@@ -10,3 +10,4 @@
 # централизованная архитектураhttps://docs.google.com/document/d/1Yk6pd0g00UxDPUJ9-0thONQGlBc25MOsArx0g31MBt8/edit?usp=drivesdk
 # 23.09.er диаграммыhttps://docs.google.com/document/d/1LQAO3OUMS1Eu0KCqqTQQNJdOwMlt30GxafOIXnSYlx0/edit?usp=drivesdk
 # знакомство с командамиhttps://docs.google.com/document/d/1Oizaug_73-v_aYfqyaV1tPxnR1LBfus8ejq_R9F6E8Q/edit?usp=drivesdk
+# конспекты с презентацийhttps://docs.google.com/document/d/1LPqN-4zCYKUNbLzd4zG2oCIDq0fSTyESNe3dFWppjqg/edit?usp=drivesdk
