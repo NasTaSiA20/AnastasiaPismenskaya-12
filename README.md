@@ -13,4 +13,4 @@
 # конспекты с презентацийhttps://docs.google.com/document/d/1LPqN-4zCYKUNbLzd4zG2oCIDq0fSTyESNe3dFWppjqg/edit?usp=drivesdk
 # запись экрана 5.11.2022https://drive.google.com/folderview?id=1M4Q5M1N03FBFfJsZC5N2zYp5X2MVa0ct
 # таблицы MySQL https://docs.google.com/document/d/1jFAR4EjHnt3KLbJLY_geFGNdoyuBJhK7bkrT9Kngmck/edit?usp=drivesdk
-# запросы авиакомпании https://docs.google.com/document/d/1udNDOedAK_c-vicBf2MZmxqpy29O-xxCNrNkwfK2f3g/edit?usp=drivesdk
+# запросы авиакомпания https://docs.google.com/document/d/1udNDOedAK_c-vicBf2MZmxqpy29O-xxCNrNkwfK2f3g/edit?usp=drivesdk
