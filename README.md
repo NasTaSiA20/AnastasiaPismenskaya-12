@@ -15,4 +15,4 @@
 # таблицы MySQL https://docs.google.com/document/d/1jFAR4EjHnt3KLbJLY_geFGNdoyuBJhK7bkrT9Kngmck/edit?usp=drivesdk
 # запросы аэропорт https://docs.google.com/document/d/1udNDOedAK_c-vicBf2MZmxqpy29O-xxCNrNkwfK2f3g/edit?usp=drivesdk
 # таблица глазки сейв https://docs.google.com/spreadsheets/d/1C9DaOkfYfvVqjxAJCNg0XuGO8UE3ZdDZ/edit?usp=drivesdk&ouid=113646634733123735863&rtpof=true&sd=true
-# перенос таблицы https://docs.google.com/spreadsheets/d/1C9DaOkfYfvVqjxAJCNg0XuGO8UE3ZdDZ/edit?usp=drivesdk&ouid=113646634733123735863&rtpof=true&sd=true
+# перенос таблицы https://docs.google.com/document/d/1OPWwf9-aGV4xhkfQQAeKdsY7je8-U2z5yoCFDUyf9x8/edit?usp=drivesdk
