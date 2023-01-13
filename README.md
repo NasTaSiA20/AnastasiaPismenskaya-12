@@ -17,3 +17,4 @@
 # таблица глазки сейв https://docs.google.com/spreadsheets/d/1C9DaOkfYfvVqjxAJCNg0XuGO8UE3ZdDZ/edit?usp=drivesdk&ouid=113646634733123735863&rtpof=true&sd=true
 # перенос таблицы https://docs.google.com/document/d/1OPWwf9-aGV4xhkfQQAeKdsY7je8-U2z5yoCFDUyf9x8/edit?usp=drivesdk
 # математика https://docs.google.com/spreadsheets/d/1y0EsjzdRSii5K9kvh7wPHEoBjVrYOUgO/edit?usp=sharing&ouid=113646634733123735863&rtpof=true&sd=true
+# импорт данных в базу данных дем экзамен https://docs.google.com/document/d/1Bo3RI-duwj71pD6PpSjEnLledRv4EeuDWZHG_ctajck/edit?usp=drivesdk
