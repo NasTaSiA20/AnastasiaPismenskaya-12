@@ -19,3 +19,4 @@
 # математика https://docs.google.com/spreadsheets/d/1y0EsjzdRSii5K9kvh7wPHEoBjVrYOUgO/edit?usp=sharing&ouid=113646634733123735863&rtpof=true&sd=true
 # импорт данных в базу данных дем экзамен https://docs.google.com/document/d/1Bo3RI-duwj71pD6PpSjEnLledRv4EeuDWZHG_ctajck/edit?usp=drivesdk
 # 27.01.23 https://docs.google.com/document/d/1CkEJ7vHSTus2Bz6nQY2SBK4elxsYaDbREnbj9-yS60w/edit?usp=sharing
+ #создание бд 13.02 Иванова Письменская Золотова https://docs.google.com/document/d/1lDd-ihauWJlaaKmjq1SpONK0NS1RoUK8Iux4NTjhilU/edit?usp=drivesdk
