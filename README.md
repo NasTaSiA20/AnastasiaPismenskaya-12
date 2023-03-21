@@ -22,3 +22,4 @@
 # сервис центр https://docs.google.com/document/d/1I_wXz_ori2ptIiUlke_OkOWlaG7NF_03ILvAVphC2AQ/edit?usp=sharing
 # создание базы данных 13.02 https://docs.google.com/document/d/1lDd-ihauWJlaaKmjq1SpONK0NS1RoUK8Iux4NTjhilU/edit?usp=drivesdk
 # импорт данных Петербург https://docs.google.com/document/d/1CkEJ7vHSTus2Bz6nQY2SBK4elxsYaDbREnbj9-yS60w/edit?usp=drivesdk
+# er диаграмма благодать https://docs.google.com/document/d/16hsMhM15yLfi2DJfdVmyThblAUvULnQgQVaWPVQTV2g/edit?usp=sharing
